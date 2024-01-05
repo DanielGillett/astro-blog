@@ -1,6 +1,0 @@
-{
-	"runtime": "nodejs18.x",
-	"handler": "root/daniel/code/astro/tutorials/traversy/astro-blog/dist/entry.mjs",
-	"launcherType": "Nodejs",
-	"supportsResponseStreaming": true
-}
