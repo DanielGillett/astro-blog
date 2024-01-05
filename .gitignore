@@ -22,3 +22,5 @@ pnpm-debug.log*
 
 # don't save the .astro directory
 \n.astro
+
+\n.vercel
